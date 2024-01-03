@@ -1,0 +1,14 @@
+{
+  "name": "date-euro",
+  "_cacheHeaders": {
+    "ETag": "\"1122061-5c7-5e2096c3c4ad1-gzip\"",
+    "Last-Modified": "Wed, 22 Jun 2022 13:36:22 GMT",
+    "Content-Length": "707",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "_release": "e-tag:1122061-5",
+  "main": "index.js",
+  "_source": "https://cdn.datatables.net/plug-ins/1.10.20/sorting/date-euro.js",
+  "_target": "*",
+  "_originalSource": "https://cdn.datatables.net/plug-ins/1.10.20/sorting/date-euro.js"
+}

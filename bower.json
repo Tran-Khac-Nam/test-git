@@ -1,0 +1,34 @@
+{
+  "name": "mystore",
+  "description": "",
+  "main": "",
+  "authors": [
+    "tran khac nam <nam3061998@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Tran-Khac-Nam/php_oe29_ecommerce2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "common": "https://github.com/Tran-Khac-Nam/common.git",
+    "AdminLTE": "https://github.com/Tran-Khac-Nam/AdminLTE.git",
+    "css": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700",
+    "html5shiv.min": "https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js",
+    "respond.min": "https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js",
+    "date-euro": "https://cdn.datatables.net/plug-ins/1.10.20/sorting/date-euro.js",
+    "bootstrap-fileinput": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/5.0.6/css/fileinput.min.css",
+    "bootstrap-theme": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/5.0.6/themes/explorer-fa/theme.css",
+    "tinymce": "https://cdnjs.cloudflare.com/ajax/libs/tinymce/5.0.15/tinymce.min.js",
+    "bootstrap-fileinput-js": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/5.0.6/js/fileinput.js",
+    "bootstrap-theme-js": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/5.0.6/themes/explorer-fa/theme.js",
+    "bootstrap-material-design": "https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js",
+    "demo-bower": "https://github.com/Tran-Khac-Nam/font.git",
+    "bootstrap-material-design.min": "https://unpkg.com/bootstrap-material-design@4.1.1/dist/css/bootstrap-material-design.min.css",
+    "chart.js": "^2.9.4"
+  }
+}

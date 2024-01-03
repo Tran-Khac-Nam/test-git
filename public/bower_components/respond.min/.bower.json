@@ -1,0 +1,14 @@
+{
+  "name": "respond.min",
+  "_cacheHeaders": {
+    "ETag": "\"5eb03fbf-1119\"",
+    "Last-Modified": "Mon, 04 May 2020 16:15:59 GMT",
+    "Content-Length": "2164",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "_release": "e-tag:5eb03fbf-",
+  "main": "index.js",
+  "_source": "https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js",
+  "_target": "*",
+  "_originalSource": "https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-theme-js",
+  "_cacheHeaders": {
+    "ETag": "\"5eb03d8e-1111\"",
+    "Last-Modified": "Mon, 04 May 2020 16:06:38 GMT",
+    "Content-Length": "1370",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "_release": "e-tag:5eb03d8e-",
+  "main": "index.js",
+  "_source": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/5.0.6/themes/explorer-fa/theme.js",
+  "_target": "*",
+  "_originalSource": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/5.0.6/themes/explorer-fa/theme.js"
+}

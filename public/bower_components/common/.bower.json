@@ -1,0 +1,13 @@
+{
+  "name": "common",
+  "homepage": "https://github.com/Tran-Khac-Nam/common",
+  "_release": "a1d737087e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a1d737087e28cb6107b9c99af2c395f7e78991fb"
+  },
+  "_source": "https://github.com/Tran-Khac-Nam/common.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/Tran-Khac-Nam/common.git"
+}

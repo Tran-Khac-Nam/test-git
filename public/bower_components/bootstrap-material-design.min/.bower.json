@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-material-design.min",
+  "_cacheHeaders": {
+    "ETag": "\"6ae00-TDmIH9ntnxlp2o9g/Dhd3bTqORc\"",
+    "Last-Modified": "Tue, 23 Jan 2018 14:37:41 GMT",
+    "Content-Type": "text/css; charset=utf-8"
+  },
+  "_release": "e-tag:6ae00-TDm",
+  "main": "index.css",
+  "_source": "https://unpkg.com/bootstrap-material-design@4.1.1/dist/css/bootstrap-material-design.min.css",
+  "_target": "*",
+  "_originalSource": "https://unpkg.com/bootstrap-material-design@4.1.1/dist/css/bootstrap-material-design.min.css"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "html5shiv.min",
+  "_cacheHeaders": {
+    "ETag": "\"5eb03e9e-aaa\"",
+    "Last-Modified": "Mon, 04 May 2020 16:11:10 GMT",
+    "Content-Length": "1350",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "_release": "e-tag:5eb03e9e-",
+  "main": "index.js",
+  "_source": "https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js",
+  "_target": "*",
+  "_originalSource": "https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"
+}

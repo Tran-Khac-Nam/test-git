@@ -1,0 +1,14 @@
+{
+  "name": "tinymce",
+  "_cacheHeaders": {
+    "ETag": "\"5eb03ffe-69c01\"",
+    "Last-Modified": "Mon, 04 May 2020 16:17:02 GMT",
+    "Content-Length": "142502",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "_release": "e-tag:5eb03ffe-",
+  "main": "index.js",
+  "_source": "https://cdnjs.cloudflare.com/ajax/libs/tinymce/5.0.15/tinymce.min.js",
+  "_target": "*",
+  "_originalSource": "https://cdnjs.cloudflare.com/ajax/libs/tinymce/5.0.15/tinymce.min.js"
+}

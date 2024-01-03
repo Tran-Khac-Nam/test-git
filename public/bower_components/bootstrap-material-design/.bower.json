@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-material-design",
+  "_cacheHeaders": {
+    "ETag": "\"30456-5bc6/8bX+BKmGM8dX5QzYDLvouI\"",
+    "Last-Modified": "Tue, 23 Jan 2018 14:37:32 GMT",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "_release": "e-tag:30456-5bc",
+  "main": "index.js",
+  "_source": "https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js",
+  "_target": "*",
+  "_originalSource": "https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "demo-bower",
+  "version": "1.0.1",
+  "authors": [
+    "Trung Quan <quanlightning17@gmail.com>"
+  ],
+  "description": "Framgia standard demo Bower",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Tran-Khac-Nam/common.git",
+  "ignore": [
+    "README.md"
+  ]
+}

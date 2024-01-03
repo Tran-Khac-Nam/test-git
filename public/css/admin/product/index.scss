@@ -1,0 +1,90 @@
+#admin-product-table td,
+#admin-product-table th {
+    vertical-align: middle !important;
+}
+#admin-product-table span.status-label {
+    display: block;
+    width: 85px;
+    text-align: center;
+    padding: 2px 0px;
+}
+#search-input span.input-group-addon {
+    padding: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 34px;
+    border: none;
+    background: none;
+}
+#search-input span.input-group-addon i {
+    font-size: 18px;
+    line-height: 34px;
+    width: 34px;
+    color: #f30;
+}
+#search-input input {
+    position: static;
+    width: 100%;
+    font-size: 15px;
+    line-height: 22px;
+    padding: 5px 5px 5px 34px;
+    float: none;
+    height: unset;
+    border-color: #fbfbfb;
+    box-shadow: none;
+    background-color: #e8f0fe;
+    border-radius: 5px;
+}
+#refresh-btn {
+    margin-right: 5px;
+}
+.thumbnail-col {
+    width: 200px;
+}
+.thumbnail-col img {
+    height: 70px;
+}
+
+@media (min-width: 768px) {
+    .modal-dialog {
+        width: 780px;
+        margin: 30px auto;
+    }
+}
+
+.attr-name {
+    padding: 5px;
+}
+
+.mini-content {
+    float: right;
+    cursor: pointer;
+    color: #97a0b3;
+}
+
+.thumbnail-img {
+    height: 150px;
+}
+
+.other-pics {
+    margin: 10px 0 15px;
+}
+
+.other-pics img {
+    height: 160px;
+}
+
+.other-pics .image-div {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.change-status-btn {
+    display: inline-block;
+}
+
+#admin-product-table th:last-child {
+    width: 15%;
+}

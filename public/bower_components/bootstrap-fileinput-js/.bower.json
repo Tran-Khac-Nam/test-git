@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-fileinput-js",
+  "_cacheHeaders": {
+    "ETag": "\"5eb03d8e-3fcc9\"",
+    "Last-Modified": "Mon, 04 May 2020 16:06:38 GMT",
+    "Content-Length": "49300",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "_release": "e-tag:5eb03d8e-",
+  "main": "index.js",
+  "_source": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/5.0.6/js/fileinput.js",
+  "_target": "*",
+  "_originalSource": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/5.0.6/js/fileinput.js"
+}
